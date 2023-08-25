@@ -38,3 +38,22 @@ p{
     font-weight: 500;   
     text-transform: none;
 }
+.logo {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+a{
+    font-weight: 700;
+    text-decoration: none;
+    color: rgb(159, 118, 87);
+}
+a:hover{
+    color: rgb(60, 58, 71);
+}
+form input,
+form textarea,
+form button{
+    font-family: verdana, sans-serif;
+    font-size: 18;
+    line-height: 1.55;
+}
